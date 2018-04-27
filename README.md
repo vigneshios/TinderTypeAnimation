@@ -1,2 +1,2 @@
 # TinderTypeAnimation
-Animating a view like tinder using uidynamic animator and snap behaviour , pan gesture. auto layout not required since uidynamics and snap will always keep it to the centre.
+<a href="https://imgflip.com/gif/297iv3"><img src="https://i.imgflip.com/297iv3.gif" title="made at imgflip.com"/></a>
